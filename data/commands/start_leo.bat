@@ -1,0 +1,1 @@
+V:\SciTE\python.exe V:\leo_files\launchLeo.py

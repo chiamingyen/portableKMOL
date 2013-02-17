@@ -1,0 +1,1 @@
+Your nginx should be located here.
