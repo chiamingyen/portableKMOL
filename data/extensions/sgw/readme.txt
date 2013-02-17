@@ -1,1 +1,0 @@
-Your Simple Groupware.
